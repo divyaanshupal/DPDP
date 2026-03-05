@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126518056940",
+    "project_id": "dpdp-cb20e",
+    "storage_bucket": "dpdp-cb20e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126518056940:android:4d1e1f0809b478048792c9",
+        "android_client_info": {
+          "package_name": "com.example.kyrotics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd50OunQaS7qh7NLvEkK0YKj1XUv0HiL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

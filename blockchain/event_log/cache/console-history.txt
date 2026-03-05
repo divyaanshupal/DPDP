@@ -1,0 +1,9 @@
+ethers.formatEther(await ethers.provider.getBalance
+deployer.address
+const [deployer] = await ethers.getSigners();
+const { ethers, artifacts } = require("hardhat");
+await contract.log("login requested", "user", "abcd", "testing some changes");
+const contract = await ethers.getContractAt("AppEventLog", "0x3E2fa0904FECe8EFfbe8f1705199F1ccA7FA9089");await contract.log("login requested", "user", "abcd", "testing some changes");
+await contract.log("login requested", "user", "abcd", "testing some changes");
+const contract = await ethers.getContractAt("AppEv89");
+const contract = await ethers.getContractAt("AppEvawait contract.log("login requested", "user", "abcd", "testing some changes");
